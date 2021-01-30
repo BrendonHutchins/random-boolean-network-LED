@@ -1,0 +1,9 @@
+__pycache__
+notebooks
+build
+dist
+/env
+a.out
+
+# osx noise
+.DS_Store
